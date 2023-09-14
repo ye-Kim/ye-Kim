@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ye-Kim
+- 📝 Undergraduate majoring in AI at Gachon Univesity (2020 - now)
+- 🌱 Learning: Artificial Intelligence, Human-Computer Interface and Pose Estimation
+- 📫 Contact: yekim.galanthus@gmail.com
