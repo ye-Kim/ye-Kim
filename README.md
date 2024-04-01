@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## ye-Kim
-- 📝 Undergraduate majoring in AI at Gachon Univesity (2020 - now)
+- 📝 Undergraduate majoring in AI at Gachon Univesity (2020 - 2023)
 - 🌱 Learning: Artificial Intelligence, Human-Computer Interface and Pose Estimation
 - 📫 Contact: yekim.galanthus@gmail.com
