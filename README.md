@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ye-Kim
+## ye-Kim (They/them)
 - 📝 Master majoring in AI at Gachon Univesity (2024. 03 - 2026. 02)
 - 📝 Undergraduate majoring in AI at Gachon Univesity (2020. 03 - 2024. 02)
 - 🌱 Learning: Artificial Intelligence, Human-Computer Interface and Pose Estimation
