@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## ye-Kim (They/them)
 - 📝 Master majoring in AI at Gachon Univesity (2024. 03 - 2026. 02)
 - 📝 Undergraduate majoring in AI at Gachon Univesity (2020. 03 - 2024. 02)
-- 🌱 Learning: Artificial Intelligence, Human-Computer Interface and Pose Estimation
+- 📚 Research Field: Multimodal Deep Learning, Human Activity Recognition (HAR), Pose Estimation, and Brain-Computer Interface (BCI)
 - 📫 Contact: yekim.galanthus@gmail.com
